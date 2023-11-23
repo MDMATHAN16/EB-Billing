@@ -1,0 +1,77 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Aug 30, 2023, 4:10:03 PM
+    Author     : MADHAN
+*/
+
+body{
+    
+}
+.lc{
+    height:100%;
+    width:17%;
+    position: absolute;
+    background-color: pink;
+    border-right: 10px solid black;
+}
+.container{
+    border-left-color: white;
+    padding: 10px;
+    left: 233px;
+    height: 100%;
+    width: 83%;
+    background-image: url('pinwheels-6535599.jpg');
+    background-size: cover;
+    position: absolute;
+}
+.toggle-btn{
+    font-family: calibri;
+    top:3%;
+    left: 3%;
+    cursor: pointer;
+    background:transparent;
+    border: 0;
+    outline: none;
+    position: relative;
+    font-family: arial;
+    font-size: 25px;
+}
+.userd{
+    background: transparent;
+    background:blanchedalmond;
+    width:45%;
+    padding: 25px;
+    margin: 5px 5px;
+    position: absolute;
+    left: 22%;
+    top: 22%;
+    right: 40%;
+}
+.form-field{
+    width: 30%;
+    padding: 10px 0;
+    margin: 5px 0;
+    border: none;
+    outline: none;
+    border-left: 0;
+    border-top: 0;
+    border-right: 0;
+    border-bottom: 2px solid black;
+    background: transparent;
+}
+.Submit{
+    width: 35%;
+    left: 55%;
+    padding: 10px 35px;
+    margin-bottom:  auto;
+    margin-top: 15px;
+    border-radius: 25px;
+    cursor: pointer;
+    background:linear-gradient(to right,#3f5efb,#fc466b);
+    border: 0;
+    outline: none;
+}
+
